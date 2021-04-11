@@ -1,2 +1,2 @@
 # web3Controller
-easy interface for web3
+Easy interface for web3
